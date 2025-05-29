@@ -16,3 +16,4 @@ A simple and functional To-Do list app for the terminal, built using C# and Enti
 - [.NET](https://dotnet.microsoft.com/)
 - [Entity Framework Core](https://learn.microsoft.com/en-us/ef/core/)
 - [SQLite](https://www.sqlite.org/index.html)
+
